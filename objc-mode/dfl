@@ -1,0 +1,3 @@
+#name : DFNLOG("...")
+# --
+DFNLOG(@"$0");

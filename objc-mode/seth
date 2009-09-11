@@ -1,0 +1,5 @@
+#name : foo; setFoo: DECL 
+# --
+- (${1:id}) ${2:foo};
+- (void) set${2:$(upcase-initials text)}: ($1) ${3:val};
+$0

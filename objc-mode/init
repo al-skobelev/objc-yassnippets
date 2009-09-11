@@ -1,0 +1,8 @@
+#name : - init { ... }
+# --
+- init
+{
+    if (! (self = [super init])) return nil;
+    $0
+    return self;
+}

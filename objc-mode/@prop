@@ -1,0 +1,4 @@
+#name : @property (...) ...
+# --
+@property (nonatomic, retain) ${1:id} ${2:value};
+
